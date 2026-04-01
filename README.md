@@ -46,9 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+I learned how to set up different structure on different screen sizes, flexbox on mobile, grid on the desktop, and also how to use the picture tag, which was one thing before i started where i went, "How do i even do that?", but it ended up being quite simple.
 
 ```html
 <picture class="-ml-8 -mr-8 mb-8 sm:mr-0 sm:mb-0 sm:ml-0">
@@ -59,7 +57,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I want to keep working with flexbox and grid, using grid made my life so much easier on the desktop design, but styling pictures still feels a bit foreign to me, so i want to focus on that.
 
 ### Useful resources
 
@@ -68,16 +66,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### AI Collaboration
 
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
-
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
-
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
+Once again, sadly I did have to use Claude for some help, when working with the picture tag this strange white box kept appearing at the bottom of my page, which was due to some mismatched styling, but other than that i try to stay far away from AI for this project.
 
 ## Author
 
 - Frontend Mentor - [@denissoboslai13](https://www.frontendmentor.io/profile/denissoboslai13)
-
-## Acknowledgments
