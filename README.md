@@ -66,7 +66,7 @@ I want to keep working with flexbox and grid, using grid made my life so much ea
 
 ### AI Collaboration
 
-Once again, sadly I did have to use Claude for some help, when working with the picture tag this strange white box kept appearing at the bottom of my page, which was due to some mismatched styling, but other than that i try to stay far away from AI for this project.
+Once again, sadly I did have to use Claude for some help, when working with the picture tag this strange white box kept appearing at the bottom of my page, which was due to some mismatched styling, but other than that i try to stay far away from AI for all challenges.
 
 ## Author
 
